@@ -1,2 +1,4 @@
-# antigravity-pruebas
-Primer repo para aprender GitHub
+# Antigravity – pruebas
+
+Primer repositorio de pruebas para aprender GitHub
+y usarlo con Google Antigravity.
